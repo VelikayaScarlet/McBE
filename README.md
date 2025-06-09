@@ -2,6 +2,9 @@
 McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models
 
 Dataset: https://huggingface.co/datasets/Velikaya/McBE
+
+Paper: [McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models](https://openreview.net/pdf?id=E1OyBBcltF)
+
 Code: https://github.com/VelikayaScarlet/McBE
 
 # Dataset Description
