@@ -15,7 +15,7 @@
 	Ruirui Wang<sup>1,2,3</sup>,</span>
 	Ke Chang<sup>1,2,3</sup>,</span>
 	Jiang Li<sup>1,2,3</sup>,</span>
-	Guanglai Gao<sup>1,2,3</sup>,</span>
+	Guanglai Gao<sup>1,2,3</sup></span>
 </div>
 <br>
 <div align="center">
@@ -24,6 +24,9 @@
     <sup>3</sup>Inner Mongolia Key Laboratory of Multilingual Artiffcial Intelligence Technology, China&emsp;<br>
     <br>
 </div>
+
+ \* corresponding author
+
 <div>
   <img src="https://raw.githubusercontent.com/VelikayaScarlet/McBE/refs/heads/main/content/mcbe.png" alt="MCBE" />
 </div>
