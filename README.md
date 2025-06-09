@@ -11,9 +11,9 @@
 </div>
 <br>
 <div align="center">
-    <sup>1</sup>College of Computer Science, Inner Mongolia University, China&emsp;
-    <sup>2</sup>National & Local Joint Engineering Research Center of Intelligent Information Processing Technology for Mongolian, China&emsp;
-    <sup>3</sup>Inner Mongolia Key Laboratory of Multilingual Artiffcial Intelligence Technology, China&emsp;
+    <sup>1</sup>College of Computer Science, Inner Mongolia University, China&emsp;<br>
+    <sup>2</sup>National & Local Joint Engineering Research Center of Intelligent Information Processing Technology for Mongolian, China&emsp;<br>
+    <sup>3</sup>Inner Mongolia Key Laboratory of Multilingual Artiffcial Intelligence Technology, China&emsp;<br>
     <br>
 </div>
 <div>
