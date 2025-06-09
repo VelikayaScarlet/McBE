@@ -27,9 +27,10 @@
 <div>
   <img src="https://raw.githubusercontent.com/VelikayaScarlet/McBE/refs/heads/main/content/mcbe.png" alt="MCBE" />
 </div>
-Dataset: https://huggingface.co/datasets/Velikaya/McBE
 
 Paper: [McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models](https://openreview.net/pdf?id=E1OyBBcltF)
+
+Dataset: https://huggingface.co/datasets/Velikaya/McBE
 
 Code: https://github.com/VelikayaScarlet/McBE
 
@@ -71,7 +72,7 @@ openpyxl
 3. Open `eval.py` and update the path parameter to your local directory. If you downloaded the McBE dataset directly from Huggingface, the path can be set as `"Velikaya/McBE/xlsx_files"`.
 4. Edit the categories list in eval.py to specify which bias categories to evaluate:
 ```python
-   categories = [
+categories = [
     "test",  # Add categories you want to test
     # Example: "age", "gender", "race", etc.
 ]
