@@ -70,14 +70,15 @@ openpyxl
 2. Open `load_model.py` and replace `model_dir` with the path to your models in lines 6–12.  
 3. Open `eval.py` and update the path parameter to your local directory. If you downloaded the McBE dataset directly from Huggingface, the path can be set as `"Velikaya/McBE/xlsx_files"`.
 4. Edit the categories list in eval.py to specify which bias categories to evaluate:
-   ```python
+```python
    categories = [
     "test",  # Add categories you want to test
     # Example: "age", "gender", "race", etc.
 ]
 ```
-5.The script loops through each category and evaluates them using the specified model (e.g., "qwen2"). You can modify the model name in the function calls:
-   ```python
+
+5. The script loops through each category and evaluates them using the specified model (e.g., "qwen2"). You can modify the model name in the function calls:
+```python
 for c in categories:
     print(c)
     preference_computation(c, "qwen2")  # Replace "qwen2" with your model
@@ -87,6 +88,7 @@ for c in categories:
     bias_scoring(c, "qwen2")
 ]
 ```
+
 6.Run the `eval.py`
 
 
