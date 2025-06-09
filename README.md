@@ -50,7 +50,7 @@ Curated by: College of Computer Science and National & Local Joint Engineering R
 🔬Dependencies
 </h2>
 
-```shell
+```python
 tqdm
 zhipuai
 openai
@@ -59,6 +59,7 @@ pandas
 itertools
 torch
 modelscope
+```
 
 <h2 align="center">
 💯How to Run a Evaluation?
