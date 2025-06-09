@@ -1,4 +1,12 @@
-# McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models
+<h2 align="center">
+McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models
+</h2>
+
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ACL-2025-green">
+  <img src="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
+</p>
 
 <div align="center"style="font-family: charter; font-size: x-small;">
 	Tian Lan<sup>1,2,3</sup>,</span>
