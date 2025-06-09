@@ -1,5 +1,4 @@
-# McBE
-McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models
+# McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models
 
 <div align="center"style="font-family: charter; font-size: x-small;">
 	Tian Lan<sup>1,2,3</sup>,</span>
@@ -12,12 +11,13 @@ McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models
 <br>
 <div align="center">
     <sup>1</sup>College of Computer Science, Inner Mongolia University, China&emsp;
+	
     <sup>2</sup>National & Local Joint Engineering Research Center of Intelligent Information Processing Technology for Mongolian, China&emsp;
+    
     <sup>3</sup>Inner Mongolia Key Laboratory of Multilingual Artiffcial Intelligence Technology, China&emsp;
+    
     <br>
 </div>
-
-![overall](https://github.com/user-attachments/assets/be077795-fb52-4f29-b6ed-c5af206a2aaf)
 
 Dataset: https://huggingface.co/datasets/Velikaya/McBE
 
