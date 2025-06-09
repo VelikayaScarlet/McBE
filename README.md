@@ -49,7 +49,7 @@ Curated by: College of Computer Science and National & Local Joint Engineering R
 <h2 align="center">
 🔬Dependencies
 </h2>
-```
+```python
 tqdm
 zhipuai
 openai
