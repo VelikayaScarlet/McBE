@@ -4,7 +4,7 @@ McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/ACL-2025-green">
-  <img src="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
 </p>
 
