@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/VelikayaScarlet/McBE/refs/heads/main/content/mcbe.png" alt="MCBE" />
 </div>
 
-Paper: [McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models](https://openreview.net/pdf?id=E1OyBBcltF)
+Paper: [McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2507.02088)
 
 Dataset: https://huggingface.co/datasets/Velikaya/McBE
 
