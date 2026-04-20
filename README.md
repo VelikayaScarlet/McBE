@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/ACL-2025-green">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+  <img src="https://img.shields.io/badge/License-MIT%204.0-blue.svg">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
 </p>
 
